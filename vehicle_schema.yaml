@@ -1,0 +1,20 @@
+# vehicle_schema.yaml
+
+- name: Car_Name
+  type: string
+- name: Year
+  type: int
+- name: Selling_Price
+  type: float
+- name: Present_Price
+  type: float
+- name: Kms_Driven
+  type: int
+- name: Fuel_Type
+  type: string
+- name: Seller_Type
+  type: string
+- name: Transmission
+  type: string
+- name: Owner
+  type: int
