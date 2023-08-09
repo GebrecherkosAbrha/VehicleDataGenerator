@@ -1,7 +1,7 @@
 
 # Vehicle Data Generator
 
-The Vehicle Data Generator is a Python script that generates synthetic vehicle data in CSV format. It uses the Faker library to create random car-related information such as car names, years, selling prices, present prices, kilometers driven, fuel types, seller types, transmission details, and owner information. This tool is useful for creating sample datasets for testing, analysis, and development purposes.
+The Vehicle Data Generator is a Python script that generates synthetic vehicle data in CSV format. It uses the Faker library to create random car-related information such as car names, years, selling prices, present prices, kilometers driven, fuel types, seller types, transmission details, owner information, mileage, engine displacement, max power, seats, car type, and location. This tool is useful for creating sample datasets for testing, analysis, and development purposes.
 
 ## Usage
 
