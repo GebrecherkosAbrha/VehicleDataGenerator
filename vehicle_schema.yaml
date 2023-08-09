@@ -1,5 +1,3 @@
-# vehicle_schema.yaml
-
 - name: Car_Name
   type: string
 - name: Year
@@ -18,3 +16,15 @@
   type: string
 - name: Owner
   type: int
+- name: Mileage
+  type: string
+- name: Engine_Displacement
+  type: string
+- name: Max_Power
+  type: string
+- name: Seats
+  type: int
+- name: Car_Type
+  type: string
+- name: Location
+  type: string
